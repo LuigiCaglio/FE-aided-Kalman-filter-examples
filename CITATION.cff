@@ -1,0 +1,54 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the articles below."
+title: "FE-aided Kalman filter examples: FE-aided Augmented Extended Kalman Filter with OpenSeesPy"
+type: software
+authors:
+  - family-names: Caglio
+    given-names: Luigi
+    email: lucag@dtu.dk
+    affiliation: Technical University of Denmark (DTU)
+license: MIT
+repository-code: "https://github.com/LuigiCaglio/FE-aided-Kalman-filter-examples"
+date-released: 2026-11-23
+preferred-citation:
+  type: article
+  title: "FE-aided Kalman Filter for nonlinear state estimation with unknown input"
+  authors:
+    - family-names: Caglio
+      given-names: Luigi
+    - family-names: Stang
+      given-names: Henrik
+    - family-names: Brincker
+      given-names: Rune
+    - family-names: Katsanos
+      given-names: Evangelos
+  journal: "Mechanical Systems and Signal Processing"
+  volume: 200
+  start: 110513
+  year: 2023
+  doi: 10.1016/j.ymssp.2023.110513
+references:
+  - type: article
+    title: "Bayesian model updating and nonlinear response estimation of structures subjected to unknown loads via FE-aided Kalman Filtering"
+    authors:
+      - family-names: Caglio
+        given-names: Luigi
+      - family-names: Stang
+        given-names: Henrik
+      - family-names: Katsanos
+        given-names: Evangelos
+    journal: "Mechanical Systems and Signal Processing"
+    volume: 241
+    start: 113505
+    year: 2025
+    doi: 10.1016/j.ymssp.2025.113505
+  - type: thesis
+    title: "Kalman Filter-based nonlinear response estimation of structures subjected to unknown loads"
+    authors:
+      - family-names: Caglio
+        given-names: Luigi
+    thesis-type: "PhD thesis"
+    institution:
+      name: "Technical University of Denmark"
+    year: 2024
+    doi: 10.11581/DTU.00000361
